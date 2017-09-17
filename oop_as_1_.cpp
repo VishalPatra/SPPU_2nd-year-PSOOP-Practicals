@@ -1,5 +1,4 @@
-//github-bababharatsharma
-//hackerrank-bharat007sharma7
+
 #include<iostream>
 using namespace std;
 
